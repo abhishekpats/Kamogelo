@@ -1,0 +1,10 @@
+c:\users\user\source\repos\PhoneBook\PhoneBook\bin\Debug\netcoreapp1.1\PhoneBook.deps.json
+c:\users\user\source\repos\PhoneBook\PhoneBook\bin\Debug\netcoreapp1.1\PhoneBook.runtimeconfig.json
+c:\users\user\source\repos\PhoneBook\PhoneBook\bin\Debug\netcoreapp1.1\PhoneBook.runtimeconfig.dev.json
+c:\users\user\source\repos\PhoneBook\PhoneBook\bin\Debug\netcoreapp1.1\PhoneBook.dll
+c:\users\user\source\repos\PhoneBook\PhoneBook\bin\Debug\netcoreapp1.1\PhoneBook.pdb
+c:\users\user\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp1.1\PhoneBook.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp1.1\PhoneBook.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp1.1\PhoneBook.AssemblyInfo.cs
+c:\users\user\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp1.1\PhoneBook.dll
+c:\users\user\source\repos\PhoneBook\PhoneBook\obj\Debug\netcoreapp1.1\PhoneBook.pdb
